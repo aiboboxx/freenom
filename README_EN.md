@@ -25,8 +25,6 @@ Documentation: English version | [中文版](https://github.com/luolongfei/freen
 
 [☕  Verification](#--Verification)
 
-[❤  Donate](#--Donate)
-
 [🌚  Author](#--Author)
 
 [🎉  Acknowledgements](#--Acknowledgements)
