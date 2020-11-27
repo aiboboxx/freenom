@@ -27,8 +27,6 @@ Documentation: English version | [中文版](https://github.com/luolongfei/freen
 
 [❤  Donate](#--Donate)
 
-[🌚  Author](#--Author)
-
 [🎉  Acknowledgements](#--Acknowledgements)
 
 [🥝  Open source agreement](#--Open-source-agreement)
